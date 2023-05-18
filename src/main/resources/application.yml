@@ -9,6 +9,6 @@ spring:
       path: /h2-console
 server:
   port: 8081
-logging:
-  level:
-    Exposed: DEBUG
+#logging:
+#  level:
+#    Exposed: DEBUG
